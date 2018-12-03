@@ -1,1 +1,19 @@
-
+body {
+  background-image: 
+  background-color: red;
+  }
+  
+  h1 {
+      color: black;
+      text-allign: center;
+    }
+    
+  p {
+      font-family: verdana;
+      font-size: 20 px;
+    }
+<style>
+  div.a{
+         text-allign: center;
+}
+</style>

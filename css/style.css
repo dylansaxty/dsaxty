@@ -1,7 +1,7 @@
 div {
     width: 100%;
     height: 400px;
-    background-image: url('DylansWebsiteBackground.JPG');
+    background-image: url(DylansWebsiteBackground.JPG);
     background-repeat: no-repeat;
     background-size: contain;
     border: 1px solid red;

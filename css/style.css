@@ -4,5 +4,6 @@ div {
     background-image: url(DylansWebsiteBackground.JPG);
     background-repeat: no-repeat;
     background-size: contain;
+    background-color: Red;
     border: 1px solid blue;
 }

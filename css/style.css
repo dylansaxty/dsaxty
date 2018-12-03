@@ -1,5 +1,6 @@
 body {
-  background-image: 
+  background-image: url(../img/Dylan Website background.jpg) no-repeat center center;
+    background-size: cover;  
   background-color: red;
   }
   

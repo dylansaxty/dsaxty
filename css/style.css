@@ -6,14 +6,5 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-color:#464646;
-    }
-  h1 {
-      color: black;
-      text-allign: center;
-    }
     
-  p {
-      font-family: verdana;
-      font-size: 20 px;
-    }
 }
